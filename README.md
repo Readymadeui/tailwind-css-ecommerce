@@ -1,18 +1,18 @@
 
-# Tailwind CSS Components | ReadymadeUI
+# ReadymadeUI Ecommerce UI Examples | Tailwind CSS
 
-Empower your website with stunning UI components from ReadymadeUI. Built with Tailwind CSS, their extensive library offers beautiful, fully responsive elements, all readily available for free on readymadeui.com.
+A collection of ecommerce UI components available for free on ReadymadeUI.com. Build your ecommerce website quickly, beautifully, and responsively with ReadymadeUI components.
 
 
 ## Visit site
 
-[readymadeui.com](https://readymadeui.com/)
+[readymadeui.com](https://readymadeui.com/tailwind-ecommerce/product-list)
 
 
 ## Examples
 
-![App Screenshot](https://raw.githubusercontent.com/Readymadeui/tailwind-css-components/main/screenshots/tailwind-css-components.png)
+![App Screenshot](https://raw.githubusercontent.com/Readymadeui/tailwind-css-ecommerce/main/screenshots/tailwind-css-ecommerce.png)
 
-![App Screenshot](https://raw.githubusercontent.com/Readymadeui/tailwind-css-components/main/screenshots/tailwind-css-components2.png)
+![App Screenshot](https://raw.githubusercontent.com/Readymadeui/tailwind-css-ecommerce/main/screenshots/tailwind-css-ecommerce2.png)
 
-![App Screenshot](https://raw.githubusercontent.com/Readymadeui/tailwind-css-components/main/screenshots/tailwind-css-components3.png)
+![App Screenshot](https://raw.githubusercontent.com/Readymadeui/tailwind-css-ecommerce/main/screenshots/tailwind-css-ecommerce3.png)
